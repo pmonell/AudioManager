@@ -36,7 +36,7 @@
 - (void)pausePlay;
 
 //  stops playback
--(void)stopPlaying;
+- (void)stopPlaying;
 
 //  starts recording at file specified in recordingURL,
 //  stops playback if playback is happening
